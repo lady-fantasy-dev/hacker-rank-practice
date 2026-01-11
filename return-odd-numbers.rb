@@ -15,5 +15,5 @@ def odd_numbers(l,r)
 end
 
 # Test
-puts odd_numbers(2,10)
-puts odd_numbers(23, 75)
+puts odd_numbers(2,10).inspect
+puts odd_numbers(23, 75).inspect
